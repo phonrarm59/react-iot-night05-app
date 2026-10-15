@@ -3,6 +3,9 @@ import NavBar from "../components/NavBar"
 
 export default function Product() {
   return (
-    <div>Product</div>
+    <div>
+        <NavBar />
+        Product
+        </div>
   )
 }
