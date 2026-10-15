@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div>
         <NavBar />
-        Home
+        Tepamorn Koetthong
     </div>
   )
 }
